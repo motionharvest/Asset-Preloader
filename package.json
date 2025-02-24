@@ -1,6 +1,6 @@
 {
   "name": "@motionharvest/asset-preloader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A lightweight asset preloader for JavaScript applications.",
   "main": "./AssetPreloader.js",
   "module": "./AssetPreloader.js",
@@ -13,7 +13,12 @@
     "type": "git",
     "url": "https://github.com/motionharvest/asset-preloader.git"
   },
-  "keywords": ["preloader", "assets", "loader", "javascript"],
+  "keywords": [
+    "preloader",
+    "assets",
+    "loader",
+    "javascript"
+  ],
   "author": "motionharvest",
   "license": "MIT"
 }
