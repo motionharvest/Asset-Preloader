@@ -19,17 +19,11 @@ Asset Preloader is a lightweight JavaScript module for efficiently preloading as
 npm install @motionharvest/asset-preloader
 ```
 
-### Manual Download
-Download the `AssetPreloader.js` file and include it in your project:
-```html
-<script type="module" src="/path/to/AssetPreloader.js"></script>
-```
-
 ## Usage
 
 ### Importing the Preloader
 ```javascript
-import AssetPreloader from './AssetPreloader.js';
+import AssetPreloader from 'AssetPreloader';
 ```
 
 ### Initializing the Preloader
