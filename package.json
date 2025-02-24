@@ -2,9 +2,9 @@
   "name": "asset-preloader",
   "version": "1.0.0",
   "description": "A lightweight asset preloader for JavaScript applications.",
-  "main": "./src/AssetPreloader.js",
-  "module": "./src/AssetPreloader.js",
-  "types": "./src/AssetPreloader.d.ts", 
+  "main": "./AssetPreloader.js",
+  "module": "./AssetPreloader.js",
+  "types": "./AssetPreloader.d.ts", 
   "scripts": {
     "test": "echo \"No tests specified\" && exit 0"
   },
