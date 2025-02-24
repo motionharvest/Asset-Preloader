@@ -1,6 +1,6 @@
 {
   "name": "@motionharvest/asset-preloader",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A lightweight asset preloader for JavaScript applications.",
   "main": "./AssetPreloader.js",
   "module": "./AssetPreloader.js",
