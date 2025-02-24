@@ -1,0 +1,18 @@
+{
+  "name": "asset-preloader",
+  "version": "1.0.0",
+  "description": "A lightweight asset preloader for JavaScript applications.",
+  "main": "./src/AssetPreloader.js",
+  "module": "./src/AssetPreloader.js",
+  "types": "./src/AssetPreloader.d.ts", 
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/motionharvest/asset-preloader.git"
+  },
+  "keywords": ["preloader", "assets", "loader", "javascript"],
+  "author": "Aaron Sherrill",
+  "license": "MIT"
+}
