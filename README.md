@@ -23,7 +23,7 @@ npm install @motionharvest/asset-preloader
 
 ### Importing the Preloader
 ```javascript
-import AssetPreloader from 'AssetPreloader';
+import AssetPreloader from '@motionharvest/asset-preloader';
 ```
 
 ### Initializing the Preloader
